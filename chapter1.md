@@ -28,8 +28,7 @@ This is an example exercise.
 
 `@sample_code`
 ```{r}
-library(AER)
-data("Affairs")
+data <- read.csv(http://assets.datacamp.com/production/repositories/4057/datasets/ac9460776cedb41072c2431250011c31148b0d61/Schooling.csv)
 ```
 
 `@solution`
